@@ -105,20 +105,20 @@ img {
 }
 
 #heroroad {
-    background-image: url('images/heroroad.jpg');
+    background-image: url('heroroad.jpg');
     background-size: 100% 100%;
     height: 240px;
 
 }
 
 #heromugs {
-    background-image: url('images/heromugs.jpg');
+    background-image: url('heromugs.jpg');
     background-size: 100% 100%;
     height: 240px;
 }
 
 #heroguitar {
-    background-image: url('images/heromugs.jpg');
+    background-image: url('heromugs.jpg');
     background-size: 100% 100%;
     height: 240px;
 }
@@ -168,7 +168,7 @@ th {
 }
 
 #herojobs {
-    background-image: url('images/herojobs.jpg');
+    background-image: url('herojobs.jpg');
     background-size: 100% 100%;
     height: 240px;
 }
